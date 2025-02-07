@@ -5,6 +5,7 @@
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
@@ -12,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Footcap Desktop Demo](./ReadMe%20Demo%20Screenshots.png "Desktop Demo")
 
 
 ### Contact
